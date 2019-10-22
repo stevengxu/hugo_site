@@ -61,6 +61,6 @@ pygmentscodefencesguesssyntax = true
     weight = 2
     url  = "CV/"
 [[menu.main]]
-    name = "Project"
+    name = "Projects"
     weight = 3
-    url  = "Project/"
+    url  = "projects/"
