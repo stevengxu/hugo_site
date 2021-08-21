@@ -3,7 +3,7 @@ title = "Steven Xu"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
-publishDir = "stevengxu.github.io"
+publishDir = "steven.xu"
 
 paginate = 20
 canonifyurls = true
