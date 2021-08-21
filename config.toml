@@ -1,9 +1,9 @@
-baseurl = "https://sgxu79.github.io/"
+baseurl = "https://stevengxu.github.io/"
 title = "Steven Xu"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
-publishDir = "sgxu79.github.io"
+publishDir = "stevengxu.github.io"
 
 paginate = 20
 canonifyurls = true
@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Steven Xu"
-    info = "Third year statistics Ph.D. student @ NCSU"
+    info = "Fifth year statistics Ph.D. student @ NCSU"
     description = "Steven Xu's personal website"
     keywords = "personal"
     avatarurl = "images/avatar.png"
