@@ -5,12 +5,12 @@
 
 html {
   box-sizing: border-box;
-  font-size: 62.5%; }
+  font-size: 70%; }
 
 body {
   color: #212121;
   background-color: #FAFAFA;
-  font-family: Merriweather, Georgia, serif;
+  font-family: Lora, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.6em;
   font-weight: 300;
   line-height: 1.8em; }
@@ -21,10 +21,10 @@ body {
 
 a {
   font-weight: 300;
-  color: #1565c0;
+  color: #219ab3;
   text-decoration: none; }
   a:focus, a:hover {
-    text-decoration: underline; }
+    text-decoration: none; }
 
 p {
   margin: 2.0rem 0 2.0rem 0; }
@@ -35,14 +35,14 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Lato, Helvetica, sans-serif;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
   color: #000;
   margin: 6.4rem 0 3.2rem 0; }
 
 h1 {
-  font-size: 3.2rem;
-  line-height: 3.6rem; }
+  font-size: 4rem;
+  line-height: 5rem; }
   @media only screen and (max-width: 768px) {
     h1 {
       font-size: 3.0rem;
@@ -247,10 +247,10 @@ img {
     .list ul li .title {
       font-size: 1.8rem;
       color: #212121;
-      font-family: Lato, Helvetica, sans-serif;
+      font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: 700; }
       .list ul li .title:hover, .list ul li .title:focus {
-        color: #1565c0; }
+        color: #219ab3; }
 
 .centered {
   display: flex;
@@ -282,7 +282,7 @@ img {
           margin-right: 1.0rem;
           font-size: 1.6rem; }
           .centered .about ul li a:hover, .centered .about ul li a:focus {
-            color: #1565c0; }
+            color: #219ab3; }
           @media only screen and (max-width: 768px) {
             .centered .about ul li a {
               font-size: 1.4rem; } }
@@ -311,12 +311,12 @@ img {
   .navigation a, .navigation span {
     display: inline;
     font-size: 1.6rem;
-    font-family: Lato, Helvetica, sans-serif;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     line-height: 6.0rem;
     color: #212121; }
   .navigation a:hover, .navigation a:focus {
-    color: #1565c0; }
+    color: #219ab3; }
   .navigation .navigation-title {
     letter-spacing: 0.1rem;
     text-transform: uppercase; }
@@ -379,12 +379,12 @@ img {
         color: #212121;
         cursor: pointer; }
         .navigation .menu-button:hover, .navigation .menu-button:focus {
-          color: #1565c0; } }
+          color: #219ab3; } }
 
 .pagination {
   margin-top: 6.0rem;
   text-align: center;
-  font-family: Lato, Helvetica, sans-serif; }
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif; }
   .pagination li {
     display: inline;
     text-align: center;
@@ -406,6 +406,6 @@ img {
   line-height: 2.0rem;
   margin-bottom: 1.0rem; }
   .footer a {
-    color: #1565c0; }
+    color: #219ab3; }
 
 /*# sourceMappingURL=coder.css.map */

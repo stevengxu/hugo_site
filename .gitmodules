@@ -1,6 +1,6 @@
 [submodule "themes/hugo-coder"]
 	path = themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
-[submodule "sgxu79.github.io"]
-	path = sgxu79.github.io
-	url = https://github.com/sgxu79/sgxu79.github.io.git
+[submodule "stevengxu.github.io"]
+	path = stevengxu.github.io
+	url = https://github.com/stevengxu/stevengxu.github.io.git

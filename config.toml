@@ -1,5 +1,5 @@
 baseurl = "https://stevengxu.github.io/"
-title = "Steven Xu"
+title = "Steven G. Xu"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -15,8 +15,8 @@ pygmentscodefencesguesssyntax = true
 #disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Steven Xu"
-    info = "Ph.D. Candidate and Data Scientist"
+    author = "Steven G. Xu"
+    info =  ["Ph.D. Candidate","Department of Statistics"]
     description = "Steven Xu's personal website"
     keywords = "Statistics, Machine Learning, Research"
     avatarurl = "images/avatar.png"
@@ -36,24 +36,24 @@ pygmentscodefencesguesssyntax = true
     custom_css = ["css/custom.css"]
 
 [[params.location]]
-    name = "Raleigh, NC 🐺"
-    icon = "fa fa-map-marker-alt"
+    name = "Raleigh, NC"
+    icon = "fa fa-fw fa-map-marker-alt"
     weight = 1
 
 # Social links
 [[params.social]]
     name = "Linkedin"
-    icon = "fab fa-linkedin fa-2x"
+    icon = "fab fa-fw fa-linkedin"
     weight = 1
     url = "https://linkedin.com/in/sgxu79"
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github fa-2x"
+    icon = "fab fa-fw fa-github"
     weight = 1
     url = "https://github.com/stevengxu/"
 [[params.social]]
-    name = "Scholar"
-    icon = "ai ai-google-scholar-square ai-3x"
+    name = "Google Scholar"
+    icon = "fas fa-fw fa-graduation-cap"
     weight = 1
     url = "https://scholar.google.com/citations?user=gRixFzgAAAAJ&hl=en"
 #[[params.social]]
@@ -64,18 +64,14 @@ pygmentscodefencesguesssyntax = true
 
 # Menu links
 [[menu.main]]
-    name = "About"
+    name = "Résumé"
     weight = 1
-    url = "about/"
+    url  = "resume/"
 [[menu.main]]
-    name = "CV"
+    name = "Publications"
     weight = 2
-    url  = "CV/"
-[[menu.main]]
-    name = "Projects"
-    weight = 3
-    url  = "projects/"
-[[menu.main]]
-    name = "Demo"
-    weight = 4
-    url  = "demo/"
+    url  = "publications/"
+#[[menu.main]]
+#    name = "Codes"
+#    weight = 3
+#    url  = "codes/"
