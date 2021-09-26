@@ -71,7 +71,7 @@ pygmentscodefencesguesssyntax = true
     name = "Publications"
     weight = 2
     url  = "publications/"
-#[[menu.main]]
-#    name = "Codes"
-#    weight = 3
-#    url  = "codes/"
+[[menu.main]]
+    name = "Codes"
+    weight = 3
+    url  = "codes/"
