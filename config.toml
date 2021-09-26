@@ -4,7 +4,7 @@ theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 publishDir = "stevengxu.github.io"
-
+googleAnalytics = 'G-9F9SCFK1NG'
 paginate = 20
 canonifyurls = true
 
@@ -17,8 +17,8 @@ pygmentscodefencesguesssyntax = true
 [params]
     author = "Steven G. Xu"
     info =  ["Ph.D. Candidate","Department of Statistics"]
-    description = "Steven Xu's personal website"
-    keywords = "Statistics, Machine Learning, Research"
+    description = "The personal website of Steven G. Xu, a Statistics PhD student studying in NCSU."
+    keywords = "Steven G. Xu, Steven Xu, UW, PhD, NCSU, Statistics, Machine Learning, Research, Anomaly Detection, Quantile Regression"
     avatarurl = "images/avatar.png"
 
     favicon_32 = "/img/favicon-32x32.png"
